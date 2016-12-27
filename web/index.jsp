@@ -12,7 +12,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
-    <body align="center">
+    <body>
         <%@include file="header.jsp"%>
         <form action="controller.jsp" method="get">
             Enter the Principle Amount:<input type="text" name="txtpa"/><br><br>
